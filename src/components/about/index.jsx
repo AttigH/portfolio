@@ -12,10 +12,20 @@ const AboutDetails = () => {
           }
         >
           <h2 className="  text-xl md:text-2xl text-left w-full capitalize">
-            Architect of Enchantment
+            About me
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          As a front-end with full-stack capabilities, I conjure digital experiences that seamlessly blend form and function. JavaScript serves as my magical core, with tools like React.js,Next.js and Vue.js forming the spellbook I use to build immersive, responsive interfaces. Guided by the secure foundations, I create portals that pull users into polished, interactive worlds. With an eye for design and the depth of a full-stack arsenal, I’m on an endless journey to master new spells and craft innovative, lasting impressions across the digital universe.
+            I'm a passionate front-end developer with 3 years of hands-on
+            experience in building dynamic and user-friendly web applications.
+            My expertise lies in crafting seamless user interfaces using Vue and
+            React, where I thrive on creating clean, intuitive, and responsive
+            designs. With a strong foundation in front-end development, I'm also
+            capable of handling back-end tasks, including building APIs with
+            Node.js and Express. I’m continuously enhancing my skills to stay at
+            the forefront of technology and am driven to deliver efficient,
+            robust solutions in both front and back-end development. I'm excited
+            to contribute to projects that value innovation, collaboration, and
+            a user-centered approach to development.
           </p>
         </ItemLayout>
 
@@ -26,13 +36,13 @@ const AboutDetails = () => {
             25+ <sub className="font-semibold text-base">clients</sub>
           </p>
         </ItemLayout> */}
-        <br/>
+        <br />
 
         <ItemLayout
           className={"col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            3+{" "}
+            3{" "}
             <sub className="font-semibold text-base">years of experience</sub>
           </p>
         </ItemLayout>
