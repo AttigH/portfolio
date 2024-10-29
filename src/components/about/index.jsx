@@ -15,17 +15,8 @@ const AboutDetails = () => {
             About me
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-            I'm a passionate front-end developer with 3 years of hands-on
-            experience in building dynamic and user-friendly web applications.
-            My expertise lies in crafting seamless user interfaces using Vue and
-            React, where I thrive on creating clean, intuitive, and responsive
-            designs. With a strong foundation in front-end development, I'm also
-            capable of handling back-end tasks, including building APIs with
-            Node.js and Express. I’m continuously enhancing my skills to stay at
-            the forefront of technology and am driven to deliver efficient,
-            robust solutions in both front and back-end development. I'm excited
-            to contribute to projects that value innovation, collaboration, and
-            a user-centered approach to development.
+          I'm a passionate front-end developer with 3 years of hands-on experience in building dynamic and user-friendly web applications. My expertise lies in crafting seamless user interfaces using Vue and React, where I thrive on creating clean, intuitive, and responsive designs. With a strong foundation in front-end development, I'm also capable of handling back-end tasks, including building APIs with Node.js and Express. I’m continuously enhancing my skills to stay at the forefront of technology and am driven to deliver efficient, robust solutions in both front and back-end development.
+          I'm excited to contribute to projects that value innovation, collaboration, and a user-centered approach to development.
           </p>
         </ItemLayout>
 
